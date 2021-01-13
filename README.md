@@ -20,6 +20,8 @@
  - User Type ("Subscriber" = Member or "Customer" = Casual)
  - Member Year of Birth
  - Member Gender
+ 
+> You can find the dataset here: https://www.fordgobike.com/system-data
 
 
 ## Summary of Findings
